@@ -5,3 +5,4 @@ Programa dado Como Estudo Dirigido para a Aula de RCE (Raciocinio Computacional 
 - São 2 equipes: Design e Programação
 - Há 3 projetos: Livros Digitais para crianças, Leitor de Textos para deficientes visuais e um Sistema de registro de participação em eventos culturais
 - Parte integra do código é verificar se o input do usúario é desejado e, ao final mostrar O nome da equipe, quantas tarefas foram realizadas, o tempo médio de cada tarefa, a porcentagem de tarefas reaizadas por cada equipe e etc
+- Como parte do trablho, fomos desafiados a não utilizar estruturas de dados avançadas, nem funções personalizadas
