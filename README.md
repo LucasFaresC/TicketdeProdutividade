@@ -1,5 +1,5 @@
 
-Programa dado Como Estudo Dirigido para a Aula de RCE (Raciocinio Computacional para A Engenharia)
+Programa dado Como Estudo Dirigido para a Aula de RCE (Raciocinio Computacional para Engenharia)
 
 - Programa usa input do usuário para armazenar o tempo dedicado de uma equipe a uma lista de projetos, Ambas a equipe e os projetos são fictícios
 - São 2 equipes: Design e Programação
